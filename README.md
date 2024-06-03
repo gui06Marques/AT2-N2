@@ -1,9 +1,15 @@
 Livros da Marques 📚
+
 Como Usar 🚀
+
+
 Pré-requisitos ✅
+
+
 Você só precisa do Node.js e do npm instalados.
 
 Instalação 🛠️
+
 Clone o repositório:
 -git clone https://github.com/gui06Marques/livrosDoMarques.git
 
